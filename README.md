@@ -1,6 +1,5 @@
-# I am Rupert Akomeah Sakyi 👋🏾 💻
+# Web Developer 💻
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fprogramming-coding-programming-banner-gm623898896-109553439&psig=AOvVaw34-gd3hIzVLrBYJ9x2Pu6B&ust=1646866735528000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCrkazNt_YCFQAAAAAdAAAAABAD">
 
 Rupert Akomeah is Web developer with vast knowlegde in specific programming languages for web interactivity.
 
